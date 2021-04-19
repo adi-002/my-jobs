@@ -1,0 +1,88 @@
+.posted-job-gradient-box {
+  background-image: linear-gradient(to right, #1a253c, #303f60);
+  height: 190px !important;
+}
+nav > p {
+  color: white;
+  margin-right: 30px;
+}
+.navbar {
+  margin: 10px 70px;
+  border-bottom: 1px solid #43afff;
+}
+.brandName {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+}
+.posted-job-content {
+  margin: 10px 200px 0 200px;
+  color: white;
+}
+.posted-job-content > p {
+  font-size: 12px;
+  margin-bottom: 22px;
+}
+.row {
+  margin: 0 !important;
+}
+.job-cards {
+  width: 25%;
+}
+.posted-job-card {
+  border: none !important;
+  border-radius: 5px !important;
+  box-shadow: 4px 3px 7px -4px #93a6cc;
+  margin-right: 10px;
+  width: 220px;
+  background-color: white;
+  height: 140px;
+}
+
+.posted-job-card-body {
+  margin: 10px 10px;
+  padding: 0;
+}
+.posted-job-card-title {
+  padding-top: 15px;
+  color: #303f60;
+  font-size: 14px;
+}
+.posted-job-card-text {
+  color: #303f60;
+  font-size: 12px;
+}
+.posted-job-card-footer {
+  justify-content: space-between;
+  padding: 0 5px;
+  background-color: white;
+  border-top: none;
+  padding: 10px;
+}
+
+.posted-job-card-footer > p {
+  color: #303f60;
+  font-size: 12px;
+}
+.view-app-btn {
+  background-color: #43afff33;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 5px;
+  font-size: 12px;
+}
+.footer-pagination-div {
+  position: relative;
+  margin: -35px 200px 100px 200px;
+  flex-wrap: wrap;
+}
+.pagination-nav {
+  position: absolute;
+  bottom: 0;
+  margin-top: 500px;
+  margin-left: 42%;
+}
+.pagination-item {
+  margin: 10px;
+  border-radius: 10px;
+}

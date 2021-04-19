@@ -1,0 +1,23 @@
+.post-a-job-gradient-box {
+  background-image: linear-gradient(to right, #1a253c, #303f60);
+  height: 300px !important;
+}
+.post-a-job-nav-item {
+  border-bottom: 3px solid #43afff;
+}
+.post-a-job-content {
+  margin: 10px 200px 0 200px;
+  color: white;
+}
+
+.post-a-job-form {
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  background-color: #ffffff;
+  padding: 2px 20px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 14px -4px grey;
+  margin-top: -170px;
+}

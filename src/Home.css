@@ -1,0 +1,78 @@
+.home-page {
+  position: relative;
+}
+.home-gradient-box {
+  background-image: linear-gradient(to right, #1a253c, #303f60);
+  height: 400px !important;
+}
+
+.navbar {
+  margin: 20px 70px;
+  border-bottom: 1px solid #43afff;
+}
+.brandName {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.login-signup-btn {
+  color: white;
+  background-color: #43afff33;
+  padding: 8px 25px;
+  border: 1px solid #43afff;
+  border-radius: 5px;
+}
+.home-main-div {
+  margin: 80px 200px 0 200px;
+}
+.Home-heading {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 40px;
+}
+.Home-header-span1 {
+  font-weight: 600;
+  font-size: 50px;
+}
+.Home-header-span2 {
+  color: #43afff;
+  font-weight: 600;
+  font-size: 50px;
+}
+.home-getStarted-btn {
+  background-color: #43afff;
+  color: white;
+  border: 1px solid #43afff;
+  padding: 5px 20px;
+  border-radius: 4px;
+}
+.poster-img {
+  border-radius: 20px;
+  box-shadow: 0 15px 20px -15px grey;
+}
+.home-why-us-content {
+  margin: 130px 200px 0 200px;
+}
+.heading-why-us {
+  margin-bottom: 50px;
+}
+.home-cards {
+  justify-content: space-between;
+}
+.home-card {
+  width: 300px;
+  border: none !important;
+  border-radius: 5px !important;
+  background-color: white;
+  padding: 18px 22px;
+}
+.home-card-title {
+  color: #43afff;
+}
+.home-card-text {
+  font-size: 13px;
+}
+.home-companies-who-trust-us {
+  margin: 80px 200px 0 200px;
+}

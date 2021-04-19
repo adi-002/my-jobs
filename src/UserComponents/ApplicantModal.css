@@ -1,0 +1,24 @@
+.modal-content-div {
+  background-color: lightgrey;
+  justify-content: space-between;
+  padding: 10px 10px;
+  border-radius: 15px;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  height: 70vh;
+}
+
+.modal-content {
+  width: 600px;
+  border-radius: 20px;
+  height: 90vh;
+}
+.modal-card {
+  border: 1px solid grey;
+  width: 48%;
+  background-color: white;
+  height: 150px;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}

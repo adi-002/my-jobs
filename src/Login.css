@@ -1,0 +1,45 @@
+.login-page {
+  font-size: 14px;
+}
+.gradient-box {
+  background-image: linear-gradient(to right, #1a253c, #303f60);
+  height: 270px !important;
+}
+.navbar {
+  margin: 10px 70px;
+  border-bottom: 1px solid #43afff;
+}
+.brandName {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+}
+.login-form {
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  background-color: #ffffff;
+  padding: 2px 35px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 14px -4px grey;
+}
+.login-form-group > label {
+  margin-top: 15px;
+}
+form {
+  margin: 0 15px;
+}
+.login-error {
+  border: 1px solid red;
+}
+.error-msg {
+  display: none;
+}
+.error-msg1 {
+  color: red;
+  font-size: 12px;
+  padding-top: 5px;
+  margin-left: auto;
+  display: block;
+}
