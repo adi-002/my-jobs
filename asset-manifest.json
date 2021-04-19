@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-jobs/static/css/main.a8060f16.chunk.css",
+    "main.js": "/my-jobs/static/js/main.6ab2b47b.chunk.js",
+    "main.js.map": "/my-jobs/static/js/main.6ab2b47b.chunk.js.map",
+    "runtime-main.js": "/my-jobs/static/js/runtime-main.61fd36ff.js",
+    "runtime-main.js.map": "/my-jobs/static/js/runtime-main.61fd36ff.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/my-jobs/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fa8826e3.chunk.js": "/my-jobs/static/js/2.fa8826e3.chunk.js",
+    "static/js/2.fa8826e3.chunk.js.map": "/my-jobs/static/js/2.fa8826e3.chunk.js.map",
+    "index.html": "/my-jobs/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/my-jobs/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a8060f16.chunk.css.map": "/my-jobs/static/css/main.a8060f16.chunk.css.map",
+    "static/js/2.fa8826e3.chunk.js.LICENSE.txt": "/my-jobs/static/js/2.fa8826e3.chunk.js.LICENSE.txt",
+    "static/media/poster-img.bb7401ae.jpg": "/my-jobs/static/media/poster-img.bb7401ae.jpg",
+    "static/media/solaytic.8fcec411.png": "/my-jobs/static/media/solaytic.8fcec411.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61fd36ff.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.fa8826e3.chunk.js",
+    "static/css/main.a8060f16.chunk.css",
+    "static/js/main.6ab2b47b.chunk.js"
+  ]
+}
